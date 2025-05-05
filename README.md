@@ -1,4 +1,4 @@
-Here is a notebook of our fake news detection final project
+Here is a notebook of our fake news detection final project.
 We have included the proposal, our work in the form of a notebook, our final report, and here a link to a video explaining our work: https://youtu.be/vVX_s3v-300
 
 Additionally here is a link to our source dataset: https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k
